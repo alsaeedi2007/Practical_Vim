@@ -20,4 +20,10 @@ steps to show the power of dot in Vim:
 1. Place a cursor in the first line on the letter "L"ine one
 2. press "x", you will delete a chacater "L"
 3. press "j." to get to the second line
-4. repeate the steps for the second    
+4. repeate the steps for the second
+## Conclusion
+```
+what we mean by the power of dot is that, it will repeat the last change, and this will help if we have a lot of lines to be changed.
+```
+
+  
